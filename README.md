@@ -1,5 +1,5 @@
 
-# Tic-Tac-Toe Game
+# OPEN TELEMETRY DEMONASTRATION
 
 This project implements 2 sample service to demonastrate how open telemetry can be used to monitor the performance.
 
